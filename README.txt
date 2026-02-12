@@ -19,10 +19,11 @@ https://code.earthengine.google.com/?asset=projects/ee-yuenannan0503/assets/QLBL
 
 
 Main Script:
-QLVLC_10_GEE_Code.js
+QLBLC_10_GEE_Code.js
 
 
 Notes:
 The script can be run directly in the GEE Code Editor.
 Users need read to the training sample assets.
+
 
